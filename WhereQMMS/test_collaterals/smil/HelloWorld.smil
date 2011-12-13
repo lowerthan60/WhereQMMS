@@ -14,9 +14,9 @@
       <audio src="HelloWorld.amr" />
     </par>
     <par dur="10s">
-      <img src="cid:TheEnd.gif" region="Image" />
-      <text src="cid:TheEnd.txt" region="Text" />
-      <audio src="cid:YCBNYH.amr" />
+      <img src="TheEnd.gif" region="Image" />
+      <text src="TheEnd.txt" region="Text" />
+      <audio src="YallComeBackNowYaHear.amr" />
     </par>
   </body>
 </smil>
